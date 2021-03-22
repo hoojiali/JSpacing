@@ -1,0 +1,16 @@
+PODS:
+  - JSpacing (1.0.0)
+
+DEPENDENCIES:
+  - JSpacing (from `../`)
+
+EXTERNAL SOURCES:
+  JSpacing:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSpacing: 3004dbb4257069eb6917111027774d6f4794aaf6
+
+PODFILE CHECKSUM: 75d7ae3987f3e76ffe613fd7d2030a564a512fc2
+
+COCOAPODS: 1.9.3

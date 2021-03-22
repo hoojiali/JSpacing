@@ -7,6 +7,7 @@
 //
 
 #import "JLViewController.h"
+#import <JLSpacing.h>
 
 @interface JLViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"%f", Spacing_large);
 }
 
 - (void)didReceiveMemoryWarning
